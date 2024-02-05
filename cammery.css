@@ -1,0 +1,215 @@
+.division1st{
+    background-color:rgb(37, 31, 31);
+    width: 100%;
+    height: 86px;
+    position: fixed;
+}
+.division2nd{
+    width: 10%;
+    padding: 19px;
+    margin-left: 63px;
+}
+.division3rd{
+    width: 50%;
+    margin-left: 309px;
+    margin-top: -104px;
+    height: 18px;
+}
+.divisionlist1{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 49px;
+    color: #fff;
+    font-family: system-ui;
+    font-size: small;
+}
+.division4th{
+    width: 784px;
+    height: 71px;
+    margin-left: 718px;
+    margin-top: -59px;
+    display: flex;
+
+}
+.divisionlist2{
+    
+    width: 31%;
+    height: 28px;
+    color: white;
+    display: flex;
+    margin-top: 29px;
+    
+}
+.sociallink{
+    margin-left: 20px;
+}
+
+.divisionlist2 li{
+    width: 20px;
+    height: 20px;
+}
+body{
+    margin: 0;
+
+}
+.insideimage{
+    background-color:  #9c4041;
+    height: 812px;
+    margin-top: -164;
+
+
+}
+
+.bimage{
+    height: 750px;
+    background-color: #9c4041;
+    background-image: url(WhatsApp\ Image\ 2024-02-03\ at\ 6.43.57\ AM.jpeg);
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+}
+.button{
+    width: 25%;
+    background-color: #9c4041;
+    float: left;
+    height: 55px;
+    margin: 89px;
+    color: #bc9e33;
+    border-color: #bc9e33;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.button:hover{
+ background-color: #bc9e33;
+ color: black;
+}
+ 
+.footter{
+    background-color: #1c1c1c;
+    width: 100%;
+    margin-top: 52px;
+    display: inline-block;
+    position: relative;
+}
+.line{
+    height: 1px;
+    background-color: #52472e;
+    width: 90%;
+    position: absolute;
+    bottom: 0px;
+    left: 59px;
+}
+.firstfooter{
+    width: 70%;
+float: left;    
+height: 250px;
+   
+}
+.footerheading{
+    color: #7c682a;
+    margin-left: 30px;
+    font-style: inherit;
+    font-family: "Montserrat", sans-serif;
+    width: 70%;
+    
+}
+.firstfooter h1{
+    padding: 69px;
+    width: 70%;
+    display: flex;
+}
+.p1{
+    margin-top: -86px;
+    margin-left: 102px;
+    color: #d1bd74;
+    font-family: "Montserrat", sans-serif;
+    width: 70%;
+}
+.forbutton{
+    width: 12%;
+    float: left;
+    height: 48px;
+    margin: 89px;
+    color: #bc9e33;
+    border-style: solid;
+    border-color: #bc9e33;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+
+}
+.forbutton:hover{
+    background-color: #bc9e33;
+    color: rgb(255, 255, 255);   
+    
+}
+
+.forbuttonstyle{
+    padding: 15px;
+    width: 156px;
+    background-color: transparent;
+    border-color: transparent;
+    color: #bc9e33;
+
+}
+.footerlast{
+    background-color: #1c1c1c;
+    width: 100%;
+    height: 500px;
+    margin-top: -6px;
+}
+.footerlst1{
+
+}
+.cammeryimg{
+    width: 8%;
+    height: 36px;
+    padding-left: 140px;
+    padding-top: 194px;
+    display: flex;
+
+}
+
+.list1{
+
+    width: 32%;
+    height: 300px;
+    display: flex;
+    color: #fff;
+    list-style-type: none;
+    float: left;
+    margin-left: 430px;
+    margin-top: -139px;
+} 
+.list101{
+    
+    list-style-type: none;
+    color: #d1bd74;
+    font-family: sans-serif;
+}
+
+
+.list2{
+    width: 17%;
+    height: 300px;
+    display: flex;
+    float: left;
+    list-style-type: none;
+    margin-top: -137px;
+    margin-left: 122px;
+
+}
+.list202{
+    list-style-type: none;
+    color: #d1bd74;
+    font-family: sans-serif;
+}
+svg{
+    margin-left: 5px;
+    height: 10px;
+    width: 10px;
+}
+
+
+
